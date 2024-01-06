@@ -1,0 +1,1 @@
+pyinstaller --onefile --hidden-import socket --hidden-import art --hidden-import time --hidden-import psutil netlaynchfix.py
